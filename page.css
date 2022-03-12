@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(246, 204, 204);
+    text-align: center;
+}
+
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: rgb(245, 22, 22);
+    font-size: 33px;
+}
+
+img{
+    width: 310px;
+}
+
+h3{
+    font-size: 36px;
+    color: blue;
+}
